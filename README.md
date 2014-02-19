@@ -1,6 +1,6 @@
 # Pycharm Tutor
 
-Please reference the [slides from the PyTennessee (2014)](http://slid.es/tsclausing/pycharm/fullscreen)
+Please reference the [slides from the PyTennessee (2014)](http://slid.es/tsclausing/pycharmtutor/fullscreen)
 tutorial session.
 
 In the spirit of `vimtutor`, let there be PyCharm Tutor.
@@ -15,9 +15,9 @@ In the spirit of `vimtutor`, let there be PyCharm Tutor.
 2. Clone this repo, `git clone https://github.com/tsclausing/pycharmtutor.git`
 3. Then, `charm pycharmtutor`
 
-If step 3 doesn't open the pycharm-tutor project in PyCharm, try opening PyCharm
+If step 3 doesn't open the pycharmtutor project in PyCharm, try opening PyCharm
 the old fashioned way, then and choose "Open Directory" from the welcome screen and
-select your cloned pycharm-tutor directory.
+select your cloned pycharmtutor directory.
 
 # Lesson 0: RUN THE UNIT TESTS!
 
@@ -28,7 +28,7 @@ What's next? Read the test console output for next steps. All of the PyCharm Tut
 lessons are python files meant to be viewed *in* PyCharm.  Read everything, try
 anything, have fun :)
 
-# Skip to any Lesson
+# Skip to Any Lesson
 
 The pycharmtutor lessons don't need to be run in order, so feel free to jump around.
 Just open any of the lesson files in the lessons/ directory in PyCharm!
