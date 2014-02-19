@@ -38,10 +38,9 @@ Just open any of the lesson files in the lessons/ directory in PyCharm!
 These few lessons will get you from 0 to developing in PyCharm in 60 minutes:
 
 * IDEnlightenment
-* Python console interaction
 * Code analysis and the green light
-* Managing dependencies
 * Code completion and inline docs
+* Managing dependencies
 * Running a script
 * Debugging a script
 * Running unit tests

@@ -51,7 +51,7 @@ class TestSetup(unittest.TestCase):
             experimentation.
 
             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-            Lesson 1.1:  IDENLIGHTENMENT
+            Lesson 1:  IDENLIGHTENMENT
 
             Press the keyboard shortcut below to open the "Go to file"
             quick navigation:
