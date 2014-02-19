@@ -1,7 +1,7 @@
 """
 IDEnlightenment
 
-A handful of simple charms to help you along your journey.
+GOAL: Provide you with handful of useful charms for your journey.
 """
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,3 +77,10 @@ webbrowser.open('http://www.jetbrains.com/pycharm/webhelp/keymap-reference.html'
 
 # For fun, take a few minutes to hack on the "find any action" input
 # until you stumble across more great features.
+
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# NEXT LESSON ...
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+# Use your keyboard shortcut magic and jump to "analysis.py"
