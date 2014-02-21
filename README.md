@@ -60,15 +60,14 @@ These few lessons will get you from 0 to developing in PyCharm in 60 minutes:
 
 * idenlightenment.py - Simple charms to bewitch the mind and ensnare the senses.
 * analyze.py - Code analysis, inspection, and the all seeing eye.
+* authoring.py - Code completion and inline docs
+* debugging.py - Running & debugging a script
 
 # Lesson Roadmap
 
 The following lessons are planned or in development.
 
-* Code completion and inline docs
 * Managing dependencies
-* Running a script
-* Debugging a script
 * Running unit tests
 * Refactoring project code
 * Local history
