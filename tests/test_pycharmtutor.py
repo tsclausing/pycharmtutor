@@ -51,6 +51,19 @@ class TestSetup(unittest.TestCase):
             experimentation.
 
             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Heads UP:
+
+            This isn't a normal tutorial. There are no videos, no blogs,
+            no slides ... just PyCharm and this project full of lessons
+            which are just regular Python files.
+
+            The "For fun" sections scattered throughout the lessons are
+            meant to encourage clicking around to discover related
+            features. Don't be afraid to venture off the tutorial's path.
+
+            Enough of that. To the lessons!
+
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
             Lesson 1:  IDENLIGHTENMENT
 
             Press the keyboard shortcut below to open the "Go to file"
