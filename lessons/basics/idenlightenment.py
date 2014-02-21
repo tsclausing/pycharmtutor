@@ -17,11 +17,12 @@ GOAL: Provide you with handful of useful charms for your journey.
 import unittest
 unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 
-# 2. Press the "Find any action" keyboard shortcut
+# 2. Press the "Find any action" keyboard shortcut:
 # - Mac users press: Cmd + Shift + A
 # - Win users press: Ctrl + Shift + A
+# (press it again while the search is open to expand the search!)
 
-# 3. Type "execute selecti" and choose "Execute selection in console"
+# 3. Search for "execute selecti" and choose "Execute selection in console"
 
 # Whoa! You just ran code from a file IN PyCharm, IN a Python Console IN
 # PyCharm. That was awesome.
@@ -29,6 +30,9 @@ unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 # Commit the two things you just learned to memory:
 # - You can find *ANY* command in PyCharm with Cmd|Ctrl + Shift + A
 # - You can play with Python code from your project files interactively!
+
+# Notice that the "Find any action" search results also show your platforms
+# keyboard shortcuts. Try learning these instead of searching next time!
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +42,7 @@ unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 # Even with all of PyCharm's great features, there are still times when
 # it's helpful to drop to a command line to get work done.
 
-# 1. Ctrl|Cmd + Shift + A
+# 1. Cmd|Ctrl + Shift + A
 # 2. Type "open ter" and choose "Open Terminal"
 # 3. Run the tests *again* by running the following in your terminal
 # python -m unittest discover tests
@@ -55,7 +59,11 @@ unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 import webbrowser
 webbrowser.open('http://www.jetbrains.com/pycharm/webhelp/keymap-reference.html')
 
-# You used the charm from Lesson 1.1 to run those two lines, right?
+# You used the charm from the lesson above to run those two lines, right?
+
+# Your default keymap is also available locally:
+# 1. Cmd|Ctrl + Shift + A
+# 2. Type "key" and select "Default Keymap Reference" to open a local PDF.
 
 # Note:
 # The pycharmtutor lessons will probably refer to Cmd|Ctrl + Shift + A
