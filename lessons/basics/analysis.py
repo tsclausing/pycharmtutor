@@ -32,6 +32,10 @@ def bar():
          2,
         )
 
+# 4. Place the cursor on any of the offending code and click the yellow
+#    or red light bulb that appears near the left gutter. This is the
+#    inspection bulb, and it may suggest changes to auto-fix your code!
+
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Lesson 1.2: Configuring file analysis

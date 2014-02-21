@@ -21,7 +21,7 @@ unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 # - Mac users press: Cmd + Shift + A
 # - Win users press: Ctrl + Shift + A
 
-# 3. Type "execute selec" and choose "Execute selection in console"
+# 3. Type "execute selecti" and choose "Execute selection in console"
 
 # Whoa! You just ran code from a file IN PyCharm, IN a Python Console IN
 # PyCharm. That was awesome.
