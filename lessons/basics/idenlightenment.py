@@ -20,7 +20,7 @@ unittest.TextTestRunner().run(unittest.defaultTestLoader.discover('tests'))
 # 2. Press the "Find any action" keyboard shortcut:
 # - Mac users press: Cmd + Shift + A
 # - Win users press: Ctrl + Shift + A
-# (press it again while the search is open to expand the search!)
+# (press it again while the search is open to include non-menu items)
 
 # 3. Search for "execute selecti" and choose "Execute selection in console"
 

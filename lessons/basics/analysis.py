@@ -11,7 +11,7 @@ GOAL: Understand PyCharm's analysis & inspection features which help
 
 # Let PyCharm help you prevent bugs and write clean code.
 
-# Look in the top right corner of this editor window. See the red light?
+# Look in the top right corner of this editor window. See the red square?
 # 1. Hover your mouse over the red light for a summary of issues in this file
 # 2. Hover over and click each issue's location marker (behind the scroll bar)
 # 3. Hover over each issue in the code below for an in-line summary
@@ -64,7 +64,7 @@ def bar():
 # 2. Type "inspec" and choose "Inspect Code"
 # 3. Select the "File" radio button and a profile from Lesson 1.2 above
 
-# Bask int he glorious wealth of warnings and errors in the Inspection
+# Bask in the glorious wealth of warnings and errors in the Inspection
 # pane. Click around in there!
 
 # For fun, now that you know how to find all of these issues ...

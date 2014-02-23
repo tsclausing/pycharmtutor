@@ -91,10 +91,7 @@ class Add__init__MethodToMe():
     1. Add an init method below by beginning to type `def __i` and
     hitting Return|Enter to accept the method completion.
     """
-
-
-
-    # ^^ your `def __init__(self):` code here
+    # ^^ write your `def __init__(self):` code here
 
     # On the first line of your new __init__ method, let's call super(),
     # but let's use a builtin Live Template to remember the syntax:
@@ -113,7 +110,6 @@ class Add__init__MethodToMe():
 # the nearest hundred:
 
 digits = '123456789123456789123456789123456789'
-
 
 
 # ^^ your code here
