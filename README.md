@@ -21,6 +21,8 @@ If step 3 doesn't open the pycharmtutor project in PyCharm, try opening PyCharm
 the old fashioned way, then and choose "Open Directory" from the welcome screen and
 select your cloned pycharmtutor directory.
 
+**Once PyCharm is open, it may take a moment to index before the next step is available**
+
 From the PyCharm menu, select `Run -> Run...` and hit return to select the default
 test configuration and run the Unittests!
 
